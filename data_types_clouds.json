@@ -1,0 +1,45 @@
+{
+    "locations": [
+        "Chicago_Illinois",
+        "Phoenix_Arizona",
+        "Dallas_Texas",
+        "Aurora_Colorado"
+    ],
+    "queries": [
+        {
+            "mindate": "2010-01-01",
+            "maxdate": "2010-12-31",
+            "name": "Clouds broken percentage",
+            "datacoverage": 1,
+            "id": "HLY-CLOD-PCTBKN"
+        },
+        {
+            "mindate": "2010-01-01",
+            "maxdate": "2010-12-31",
+            "name": "Clouds clear percentage",
+            "datacoverage": 1,
+            "id": "HLY-CLOD-PCTCLR"
+        },
+        {
+            "mindate": "2010-01-01",
+            "maxdate": "2010-12-31",
+            "name": "Clouds few percentage",
+            "datacoverage": 1,
+            "id": "HLY-CLOD-PCTFEW"
+        },
+        {
+            "mindate": "2010-01-01",
+            "maxdate": "2010-12-31",
+            "name": "Clouds overcast percentage",
+            "datacoverage": 1,
+            "id": "HLY-CLOD-PCTOVC"
+        },
+        {
+            "mindate": "2010-01-01",
+            "maxdate": "2010-12-31",
+            "name": "Clouds scattered percentage",
+            "datacoverage": 1,
+            "id": "HLY-CLOD-PCTSCT"
+        }
+    ]
+}
